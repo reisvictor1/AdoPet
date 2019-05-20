@@ -2,8 +2,11 @@
 Projeto final da disciplina de Programação Orientada a Objetos de um programa desktop de adoção de animais domésticos.
 
 Mateus Prado Santos – 10851707
+
 Matheus Lopes Rigato – 10260462
+
 Matheus Tomieiro de Oliveira – 10734630
+
 Victor Vieira Custodio Reis - 10734686
 
 Resumo
