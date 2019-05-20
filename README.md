@@ -1,6 +1,11 @@
 # AdoPet
 Projeto final da disciplina de Programação Orientada a Objetos de um programa desktop de adoção de animais domésticos.
 
+Mateus Prado Santos – 10851707
+Matheus Lopes Rigato – 10260462
+Matheus Tomieiro de Oliveira – 10734630
+Victor Vieira Custodio Reis - 10734686
+
 Resumo
 
 	A causa animal atualmente é um assunto de grande discussão na sociedade. Muitos animais em situação de abandono sofrem com a falta de alimento e cuidados, morrendo vítimas de fome e patologias.
